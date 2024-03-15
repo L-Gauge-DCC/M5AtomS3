@@ -4,6 +4,7 @@
 #include "M5Unified.h"
 #include "M5GFX.h"
 #include "./utility/LedDisplay.h"
+#include "./utility/In_eSPI_Drivers/ST7789_Defines.h"
 
 namespace m5 {
 class M5AtomS3 {
